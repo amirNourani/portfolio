@@ -4,10 +4,11 @@ It includes a brief introduction about me, my projects, the technologies I've wo
 You'll also find a contact form at the bottom and my social media links below it. 
 Feel free to explore and connect with me!
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/amirNourani/portfolio/assets/87523506/56bdfad0-356d-4973-9d81-f987490882f4" alt="wb" width="600">
   <br>
-</p>
+  <a href="https://portfolio-wine-one-39.vercel.app">Try it here</a>
+</div>
 
 
 ## Table of contents
